@@ -1,7 +1,7 @@
 ### Olá! Sou Ricardo Augusto
 
-- 🔭 Hoje desenvolvo aplicações para web
-- 📚 Aprendendo sobre JavaScript
+- 🔭 Hoje meu foco está no desenvolvimento Back-end|DevOps;
+- 📚 Aprendendo sobre Java|BD|Docker|Kubernetes;
 
 <div>
   <a href="https://www.linkedin.com/in/ricardomenck/">
@@ -9,10 +9,8 @@
   <img height="180em" alt="[![Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMenck&layout=compact&theme=tokyonight">
 </div>
 <div>
-  <img align="center" alt"Ícone-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt"Ícone-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt"Ícone-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt"Ícone-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt"Ícone-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt"Ícone-SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 </div>
   
 ##
