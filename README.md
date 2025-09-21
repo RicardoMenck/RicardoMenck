@@ -1,7 +1,7 @@
 ### Olá! Sou Ricardo Augusto
-
-- 🔭 Hoje meu foco está no desenvolvimento Back-end|DevOps;
-- 📚 Aprendendo sobre Java|BD|Docker|Kubernetes;
+<!-- 
+  - 🔭 Hoje meu foco está no desenvolvimento Back-end|DevOps;
+  - 📚 Aprendendo sobre Java|BD|Docker|Kubernetes;
 
 <div>
   <a href="https://www.linkedin.com/in/ricardomenck/">
@@ -11,7 +11,7 @@
 <div>
   <img align="center" alt"Ícone-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt"Ícone-SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-</div>
+</div> -->
   
 ##
   
